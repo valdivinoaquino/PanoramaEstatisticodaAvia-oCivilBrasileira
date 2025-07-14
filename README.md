@@ -1,4 +1,4 @@
-# P# 📊 Panorama Estatístico da Aviação Civil Brasileira
+## 📊 Panorama Estatístico da Aviação Civil Brasileira
 
 Este repositório apresenta um painel interativo desenvolvido para visualizar dados estatísticos da aviação civil brasileira com base nas ocorrências reportadas ao CENIPA (Centro de Investigação e Prevenção de Acidentes Aeronáuticos).
 
@@ -30,11 +30,11 @@ De 2007 a 2025, com destaque para a evolução temporal das ocorrências.
 ## 🧑‍💻 Desenvolvedor
 
 **Valdivino Aquino**  
-Especialista em Business Intelligence, Desenvolvimento de Sistemas e Gestão de TI.
+Especialista em Business Intelligence
 
 ## 🖼️ Captura de Tela
 
-![Dashboard Power BI - Aviação Civil](./92e2fe80-7cb0-4295-823f-1b446486798c.png)
+![Dashboard Power BI - Aviação Civil](./panoramaestatistico.png)
 
 ## 📄 Licença
 
