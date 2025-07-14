@@ -27,14 +27,14 @@ De 2007 a 2025, com destaque para a evolução temporal das ocorrências.
 - **Fonte de Dados**: Relatórios públicos do CENIPA
 - **Design**: Interface personalizada com temas visuais modernos
 
+## 🖼️ Captura de Tela
+
+![Dashboard Power BI - Aviação Civil](./panoramaestatistico.png)
+
 ## 🧑‍💻 Desenvolvedor
 
 **Valdivino Aquino**  
 Especialista em Business Intelligence
-
-## 🖼️ Captura de Tela
-
-![Dashboard Power BI - Aviação Civil](./panoramaestatistico.png)
 
 ## 📄 Licença
 
